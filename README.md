@@ -1,9 +1,12 @@
 🚀 Masterclass: Dominando o LinkedIn para Carreira e Negócios
-📌 Sobre a Aula
+--
+
 Esta aula foi desenhada para transformar o seu perfil do LinkedIn de um currículo estático em uma máquina de atrair oportunidades. Abordamos desde a otimização algorítmica até a etiqueta de networking e criação de conteúdo.
 
 🎯 Objetivos de Aprendizado
-Ao final desta aula, você será capaz de:
+--
+
+Ao final desta aula foi possível
 
 Configurar um perfil campeão que aparece nas buscas de recrutadores.
 
@@ -14,6 +17,8 @@ Criar conexões estratégicas sem parecer um "spammer".
 Produzir conteúdo relevante para construir autoridade no seu nicho.
 
 🛠️ Conteúdo Programático
+--
+
 1. Anatomia do Perfil Perfeito
 Foto e Banner: A primeira impressão e o posicionamento visual.
 
